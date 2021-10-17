@@ -1,8 +1,9 @@
 const CONFIG = {
     titleWeb : "Demo" ,
-    introTitle : 'Trần Yến,
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
+    introTitle : 'Trần Phan Kim Yến' ,
+   
+    introDesc : Thường  lệ  vốn  trái  đất
+    Mà  sao  em  cứ  đi  nhầm  đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
